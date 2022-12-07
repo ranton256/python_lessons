@@ -26,4 +26,8 @@ We used these to help them build a PyGameZero project, https://github.com/ranton
 
 ## Related Resources
 
+These are slightly updated versions of some training I gave my older kids while working on a Python Flask project with them, https://github.com/ranton256/enclave7.
+
 - [Linux for Beginners](https://docs.google.com/presentation/d/e/2PACX-1vRAvg5ktQlei19uOJOMoR9JGCq6TqcyyPsqMgWOaoVq-OPNeu8zMGQGwzVLQVRGVXyzdjUS07PTpgia/pub?start=false&loop=false&delayms=10000) (slides)
+- [Git and Markdown](https://docs.google.com/presentation/d/e/2PACX-1vSOKNLImzN29qrU4h0ors3LIx2MjHFQiq9bfj93RF3JRNQpDYILx12sy4qPMNCrwHVU6ulBf8QHOTlr/pub?start=false&loop=false&delayms=10000) (slides)
+
