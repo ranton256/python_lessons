@@ -23,3 +23,7 @@ We used these to help them build a PyGameZero project, https://github.com/ranton
 - [Python Lesson One](python_lesson1.md)
 - [Python Lesson Two](python_lesson2.md)
 - [Python Lesson Three](python_lesson3.md)
+
+## Related Resources
+
+- [Linux for Beginners](https://docs.google.com/presentation/d/e/2PACX-1vRAvg5ktQlei19uOJOMoR9JGCq6TqcyyPsqMgWOaoVq-OPNeu8zMGQGwzVLQVRGVXyzdjUS07PTpgia/pub?start=false&loop=false&delayms=10000) (slides)
