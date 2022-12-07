@@ -1,7 +1,7 @@
 Data Types
 ==========
 
-Computer programming languages, including Lua, work with different types of data, and have
+Computer programming languages work with different types of data, and have
 different techniques for encoding different types of values as binary data.
 
 Boolean
